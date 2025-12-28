@@ -11770,8 +11770,8 @@ MissionEdit:add_separator()
             {label = "2 MILLION", hash = 0x921FCF3C},
             {label = "2 MILLION", hash = 0x4B6A869C},
             {label = "1 MILLION", hash = 0xE9BBC247},
-            {label = "1 MILLION", hash = 0x314FB8B0},
-            {label = "1 MILLION", hash = 0xBFCBE6B6},
+            {label = "20 MILLION", hash = 0x314FB8B0},
+            {label = "10 MILLION", hash = 0xBFCBE6B6},
             {label = "680 THOUSAND", hash = 0xACA75AAE},
             {label = "500 THOUSAND", hash = 0x05F2B7EE},
             {label = "310 THOUSAND", hash = 0xEE884170},
@@ -12378,3 +12378,4 @@ yagz2jz = ThanksMate:add_tab("Yagz2jz")
              yagz2jz:add_text("HELPED ME A LOT WITH THE MENU AND GAVE ME SO MANY IDEAS.")
              yagz2jz:add_text("INSTAGRAM:")
              yagz2jz:add_text("https://www.instagram.com/yagz2jz/")
+
